@@ -1,0 +1,199 @@
+HEADER    TRANSFERASE                             23-DEC-20   7DQG              
+TITLE     CRYSTAL STRUCTURE OF SALMONELLA PHAGE ACETYLTRANSFERASE               
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: PUTATIVE ACETYLTRANSFERASE;                                
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: SALMONELLA PHAGE SPN3US;                        
+SOURCE   3 ORGANISM_TAXID: 1090134;                                             
+SOURCE   4 GENE: SPN3US_0088;                                                   
+SOURCE   5 EXPRESSION_SYSTEM: ESCHERICHIA COLI BL21(DE3);                       
+SOURCE   6 EXPRESSION_SYSTEM_TAXID: 469008;                                     
+SOURCE   7 EXPRESSION_SYSTEM_STRAIN: BL21(DE3)                                  
+KEYWDS    SALMONELLA PHAGE, SPN3US, ACETYLTRANSFERASE, ACETYL-COA COMPLEX,      
+KEYWDS   2 TRANSFERASE                                                          
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    Y.HYUN,N.-C.HA                                                        
+REVDAT   1   29-DEC-21 7DQG    0                                                
+JRNL        AUTH   Y.HYUN,H.-M.OH,N.-C.HA                                       
+JRNL        TITL   CRYSTAL STRUCTURE OF THE PHAGE-ENCODED N-ACETYLTRANSFERASE   
+JRNL        TITL 2 IN COMPLEX WITH ACETYL-COA                                   
+JRNL        REF    TO BE PUBLISHED                                              
+JRNL        REFN                                                                                 
+DBREF  7DQG A    1   160  UNP    G5DEI1   G5DEI1_9CAUD     1    160             
+SEQADV 7DQG MET A  -17  UNP  G5DEI1              INITIATING METHIONINE          
+SEQADV 7DQG ALA A  -16  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG SER A  -15  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG MET A  -14  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG THR A  -13  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLY A  -12  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLY A  -11  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLN A  -10  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLN A   -9  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG MET A   -8  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLY A   -7  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG ARG A   -6  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLY A   -5  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG SER A   -4  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLU A   -3  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG PHE A   -2  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLU A   -1  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG LEU A    0  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG LEU A  161  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG GLU A  162  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  163  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  164  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  165  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  166  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  167  UNP  G5DEI1              EXPRESSION TAG                 
+SEQADV 7DQG HIS A  168  UNP  G5DEI1              EXPRESSION TAG                 
+SEQRES   1 A  186  MET ALA SER MET THR GLY GLY GLN GLN MET GLY ARG GLY          
+SEQRES   2 A  186  SER GLU PHE GLU LEU MET LEU VAL ILE ASN VAL VAL GLU          
+SEQRES   3 A  186  ASP LYS ILE PRO ALA ASN VAL TYR PRO GLU LEU VAL GLU          
+SEQRES   4 A  186  TRP VAL ARG ASP LEU ASN SER ILE ARG GLU GLU PRO ILE          
+SEQRES   5 A  186  LYS LEU THR MET PHE VAL GLU ASP ASP ILE VAL ARG GLY          
+SEQRES   6 A  186  ILE MET ALA TRP GLU PRO GLY HIS LEU VAL TYR MET VAL          
+SEQRES   7 A  186  VAL PRO GLU GLU SER ARG ARG GLY GLY VAL GLY ARG PHE          
+SEQRES   8 A  186  MET LEU LYS TYR LEU GLN GLN ASN SER ASP ARG LYS HIS          
+SEQRES   9 A  186  VAL SER CYS ARG VAL HIS PRO THR ASN ILE PRO ALA LEU          
+SEQRES  10 A  186  GLY PHE PHE HIS GLN GLN GLY PHE GLN ILE ASP ARG TRP          
+SEQRES  11 A  186  TYR ILE ALA ALA ASP GLY GLN ARG TYR PHE ARG MET THR          
+SEQRES  12 A  186  ASN TYR ASN VAL ILE SER SER HIS THR PRO PRO GLU GLU          
+SEQRES  13 A  186  LYS LEU LEU THR HIS TYR ALA GLU SER VAL PRO ILE PHE          
+SEQRES  14 A  186  LEU SER MET ALA GLU GLY GLN PHE VAL LEU GLU HIS HIS          
+SEQRES  15 A  186  HIS HIS HIS HIS                                              
+HET    ACO  A 201      51                                                       
+HETNAM     ACO ACETYL COENZYME *A                                               
+FORMUL   2  ACO    C23 H38 N7 O17 P3 S                                          
+FORMUL   3  HOH   *63(H2 O)                                                     
+HELIX    1   1 VAL A    7  ILE A   11  1                                   5
+HELIX    2   2 TYR A   16  SER A   28  1                                  13
+HELIX    3   3 PRO A   62  ARG A   66  1                                   5
+HELIX    4   4 GLY A   69  HIS A   86  1                                  18
+HELIX    5   5 ASN A   95  GLN A  105  1                                  11
+HELIX    6   6 PRO A  135  VAL A  148  1                                  14
+SHEET    1   1 1 LEU A   2  ASN A   5  0
+SHEET    2   2 1 LYS A  35  GLU A  41  0
+SHEET    3   3 1 ILE A  44  GLU A  52  0
+SHEET    4   4 1 HIS A  55  VAL A  60  0
+SHEET    5   5 1 SER A  88  VAL A  91  0
+SHEET    6   6 1 GLN A 108  ILE A 114  0
+SHEET    7   7 1 ARG A 120  THR A 125  0
+SITE     1 AC1 23 LEU A  56  TYR A  58  MET A  59  VAL A  60                    
+SITE     2 AC1 23 VAL A  61  ARG A  66  ARG A  67  GLY A  68                    
+SITE     3 AC1 23 GLY A  69  VAL A  70  GLY A  71  ARG A  72                    
+SITE     4 AC1 23 ARG A  90  ASN A  95  PRO A  97  PHE A 101                    
+SITE     5 AC1 23 GLN A 104  GLN A 105  GLU A 138  HOH A 303                    
+SITE     6 AC1 23 HOH A 309  HOH A 319  HOH A 327                               
+CRYST1   68.458   68.458  218.964  90.00  90.00 120.00 P 61 2 2     12          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.014607  0.008434  0.000000        0.00000                         
+SCALE2      0.000000  0.016867  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.004567        0.00000                         
+TER    1322      VAL A 160
+HETATM 1323  N1A ACO A 201       7.843  32.990  93.868  1.00 26.05           N
+HETATM 1324  C2A ACO A 201       8.521  34.036  93.414  1.00 28.36           C
+HETATM 1325  N3A ACO A 201       8.722  35.113  94.156  1.00 28.38           N
+HETATM 1326  C4A ACO A 201       8.240  35.178  95.407  1.00 33.09           C
+HETATM 1327  C5A ACO A 201       7.530  34.102  95.907  1.00 29.46           C
+HETATM 1328  C6A ACO A 201       7.333  32.972  95.091  1.00 25.44           C
+HETATM 1329  N6A ACO A 201       6.591  31.822  95.578  1.00 28.13           N
+HETATM 1330  N7A ACO A 201       7.163  34.416  97.160  1.00 28.05           N
+HETATM 1331  C8A ACO A 201       7.620  35.627  97.438  1.00 29.48           C
+HETATM 1332  N9A ACO A 201       8.275  36.101  96.389  1.00 31.83           N
+HETATM 1333  C1B ACO A 201       8.854  37.289  96.307  1.00 30.70           C
+HETATM 1334  C2B ACO A 201       7.828  38.305  95.631  1.00 34.56           C
+HETATM 1335  O2B ACO A 201       8.575  39.350  94.837  1.00 35.31           O
+HETATM 1336  C3B ACO A 201       7.209  38.915  96.842  1.00 33.06           C
+HETATM 1337  O3B ACO A 201       6.673  40.262  96.555  1.00 36.31           O
+HETATM 1338  P3B ACO A 201       5.151  40.363  95.923  1.00 39.46           P
+HETATM 1339  O7A ACO A 201       5.160  39.860  94.499  1.00 41.36           O
+HETATM 1340  O8A ACO A 201       4.208  39.510  96.744  1.00 29.22           O
+HETATM 1341  O9A ACO A 201       4.690  41.801  95.947  1.00 37.95           O
+HETATM 1342  C4B ACO A 201       8.521  38.962  97.864  1.00 34.87           C
+HETATM 1343  O4B ACO A 201       9.161  37.859  97.693  1.00 30.96           O
+HETATM 1344  C5B ACO A 201       8.054  39.081  99.298  1.00 27.76           C
+HETATM 1345  O5B ACO A 201       6.959  38.223  99.457  1.00 30.90           O
+HETATM 1346  P1A ACO A 201       6.459  37.788 100.969  1.00 25.52           P
+HETATM 1347  O1A ACO A 201       7.143  38.632 102.021  1.00 23.33           O
+HETATM 1348  O2A ACO A 201       4.962  37.962 101.071  1.00 25.09           O
+HETATM 1349  O3A ACO A 201       6.849  36.209 101.211  1.00 23.94           O
+HETATM 1350  P2A ACO A 201       5.880  35.129 101.982  1.00 23.12           P
+HETATM 1351  O4A ACO A 201       4.786  34.655 101.057  1.00 24.33           O
+HETATM 1352  O5A ACO A 201       5.270  35.784 103.198  1.00 21.36           O
+HETATM 1353  O6A ACO A 201       6.818  33.856 102.445  1.00 25.67           O
+HETATM 1354  CBP ACO A 201       8.121  31.980 101.880  1.00 26.50           C
+HETATM 1355  CCP ACO A 201       7.880  33.464 101.619  1.00 20.73           C
+HETATM 1356  CDP ACO A 201       8.682  31.818 103.293  1.00 24.79           C
+HETATM 1357  CEP ACO A 201       9.119  31.439 100.859  1.00 21.51           C
+HETATM 1358  CAP ACO A 201       6.773  31.269 101.730  1.00 24.42           C
+HETATM 1359  OAP ACO A 201       6.419  31.267 100.377  1.00 27.22           O
+HETATM 1360  C9P ACO A 201       6.784  29.822 102.230  1.00 25.76           C
+HETATM 1361  O9P ACO A 201       6.523  29.578 103.364  1.00 26.36           O
+HETATM 1362  N8P ACO A 201       7.084  28.748 101.296  1.00 24.34           N
+HETATM 1363  C7P ACO A 201       7.089  27.358 101.722  1.00 22.79           C
+HETATM 1364  C6P ACO A 201       8.186  27.092 102.751  1.00 25.13           C
+HETATM 1365  C5P ACO A 201       9.578  27.429 102.219  1.00 31.71           C
+HETATM 1366  O5P ACO A 201       9.899  27.081 101.130  1.00 29.60           O
+HETATM 1367  N4P ACO A 201      10.504  28.175 103.052  1.00 24.25           N
+HETATM 1368  C3P ACO A 201      11.830  28.474 102.543  1.00 24.72           C
+HETATM 1369  C2P ACO A 201      12.709  27.246 102.794  1.00 26.87           C
+HETATM 1370  S1P ACO A 201      14.474  27.618 102.568  1.00 26.86           S
+HETATM 1371  C   ACO A 201      15.110  28.526 104.008  1.00 32.68           C
+HETATM 1372  O   ACO A 201      16.271  28.749 104.114  1.00 34.25           O
+HETATM 1373  CH3 ACO A 201      14.145  29.004 105.086  1.00 15.76           C
+CONECT 1371 1370 1372 1373
+CONECT 1333 1332 1334 1343
+CONECT 1324 1323 1325
+CONECT 1334 1333 1335 1336
+CONECT 1369 1368 1370
+CONECT 1336 1334 1337 1342
+CONECT 1368 1367 1369
+CONECT 1326 1325 1327 1332
+CONECT 1342 1336 1343 1344
+CONECT 1327 1326 1328 1330
+CONECT 1344 1342 1345
+CONECT 1365 1364 1366 1367
+CONECT 1328 1323 1327 1329
+CONECT 1364 1363 1365
+CONECT 1363 1362 1364
+CONECT 1331 1330 1332
+CONECT 1360 1358 1361 1362
+CONECT 1358 1354 1359 1360
+CONECT 1354 1355 1356 1357 1358
+CONECT 1355 1353 1354
+CONECT 1356 1354
+CONECT 1357 1354
+CONECT 1373 1371
+CONECT 1323 1324 1328
+CONECT 1325 1324 1326
+CONECT 1367 1365 1368
+CONECT 1329 1328
+CONECT 1330 1327 1331
+CONECT 1362 1360 1363
+CONECT 1332 1326 1331 1333
+CONECT 1372 1371
+CONECT 1347 1346
+CONECT 1348 1346
+CONECT 1335 1334
+CONECT 1349 1346 1350
+CONECT 1337 1336 1338
+CONECT 1351 1350
+CONECT 1343 1333 1342
+CONECT 1352 1350
+CONECT 1345 1344 1346
+CONECT 1366 1365
+CONECT 1353 1350 1355
+CONECT 1339 1338
+CONECT 1340 1338
+CONECT 1341 1338
+CONECT 1361 1360
+CONECT 1359 1358
+CONECT 1346 1345 1347 1348 1349
+CONECT 1350 1349 1351 1352 1353
+CONECT 1338 1337 1339 1340 1341
+CONECT 1370 1369 1371
+END

@@ -1,0 +1,4 @@
+2cns_A
+spacing    0.375
+npts       58 40 60
+center     0.244 -31.435 55.913

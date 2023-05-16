@@ -1,0 +1,4 @@
+6add_A
+spacing    0.375
+npts       46 68 46
+center    -18.653  8.723  9.035

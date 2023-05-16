@@ -1,0 +1,4 @@
+7dqg_rotated
+spacing    0.375
+npts       40 52 44
+center    -5.334 27.405 86.668
