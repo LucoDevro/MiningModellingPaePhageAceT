@@ -1,7 +1,7 @@
 # MiningModellingPaePhageAceT
 Code repository of my MSc of Bioinformatics thesis 
 
-"*An exploratory analysis of the spread and structure of acetyltransferases in* Pseudomonas *phages*"
+"**An exploratory analysis of the spread and structure of acetyltransferases in *Pseudomonas* phages**"
 
 Research conducted at the lab of Computational Systems Biology of prof. Vera van Noort and the lab of Gene Technology of prof. Rob Lavigne with daily supervision by [Hannelore Longin](https://github.com/hannelorelongin).
 
