@@ -4,7 +4,7 @@
 - Bash Jupyter notebook running the phmmer mining algorithm for all *Pseudomonas* phage genomes CDSs in `PaePhages_CDSs.fasta` (`phmmer.ipynb`)
 - Python script (`supfam_preprocessing.py`) preprocessing the CDS fasta file `PaePhages_CDSs.fasta` for running a SUPERFAMILY search against it using InterProScan in Bash Jupyter notebook `SUPERFAMILY.ipynb`
 - Bash Jupyter notebook running the HHblits mining algorithm for all *Pseudomonas* phage genomes CDSs in `PaePhages_CDSs.fasta`(`HHblits.ipynb`)
-- Python Jupyter notebook aggregating all mining hit sequences into one general fastas file and files per pipeline (`Sequence aggregation.ipynb`)
+- Python Jupyter notebook aggregating all mining hit sequences into one general fasta file and separate fasta files per pipeline (`Sequence aggregation.ipynb`)
 - Bash Jupyter notebook running the phmmer mining algorithm for all *Pseudomonas* phage genomes CDSs after proteins without typical acetyltransferase structural features have been filtered out (`phmmer_revisit.ipynb`)
 - Python Jupyter notebooks visualising properties of the mining hits, before and after filtering out the false positive hits (`./Visualisation/Mining plotting.ipynb` & `./Visualisation/Mining plotting - TP.ipynb`)
 - R Jupyter notebook plotting count Venn diagrams for the hits per mining pipeline (`./Visualisation/Mining Pipeline Venn.ipynb`)
