@@ -1,4 +1,4 @@
-**Contens:**
+**Contents:**
 - Bash Jupyter notebook splitting the multi-entry GenBank file `AllGenBank.gb` into separate genome GenBank files and scraping some metadata from these (host, accessions, CDS tags) using shell script `Splitter&Scraper.sh` (`Metadata&Genomes.ipynb`)
 - Bash Jupyter notebook running the nhmmer mining algorithm for all *Pseudomonas* phage genomes in `AllGenBank.gb` (`nhmmer.ipynb`)
 - Bash Jupyter notebook running the phmmer mining algorithm for all *Pseudomonas* phage genomes CDSs in `PaePhages_CDSs.fasta` (`phmmer.ipynb`)
